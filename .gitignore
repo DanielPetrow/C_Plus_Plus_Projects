@@ -1,32 +1,32 @@
 # Prerequisites
-Beginner_1/**/*.d
+*.d
 
 # Compiled Object files
-Beginner_1/**/*.slo
-Beginner_1/**/*.lo
-Beginner_1/**/*.o
-Beginner_1/**/*.obj
+*.slo
+*.lo
+*.o
+*.obj
 
 # Precompiled Headers
-Beginner_1/**/*.gch
-Beginner_1/**/*.pch
+*.gch
+*.pch
 
 # Compiled Dynamic libraries
-Beginner_1/**/*.so
-Beginner_1/**/*.dylib
-Beginner_1/**/*.dll
+*.so
+*.dylib
+*.dll
 
 # Fortran module files
-Beginner_1/**/*.mod
-Beginner_1/**/*.smod
+*.mod
+*.smod
 
 # Compiled Static libraries
-Beginner_1/**/*.lai
-Beginner_1/**/*.la
-Beginner_1/**/*.a
-Beginner_1/**/*.lib
+*.lai
+*.la
+*.a
+*.lib
 
 # Executables
-Beginner_1/**/*.exe
-Beginner_1/**/*.out
-Beginner_1/**/*.app
+*.exe
+*.out
+*.app
