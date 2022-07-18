@@ -1,2 +1,2 @@
 # Задачи с ресурса Coursera
-Coursera
+Ресурс - тык[https://www.coursera.org/]
