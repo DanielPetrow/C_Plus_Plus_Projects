@@ -1,2 +1,2 @@
-# Задачи с ресурса Coursera
+# Задачи с ресурса Coursera (Белый пояс)
 Ресурс - [ссылка](https://www.coursera.org/)
