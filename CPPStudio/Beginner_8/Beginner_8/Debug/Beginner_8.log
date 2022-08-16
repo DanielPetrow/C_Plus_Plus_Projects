@@ -1,0 +1,4 @@
+﻿  Beginner_8.cpp
+D:\C++ Projects\CPPStudio. Beginner\Beginner_8\Beginner_8\Beginner_8.cpp(41,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Projects\CPPStudio. Beginner\Beginner_8\Beginner_8\Beginner_8.cpp(80,20): warning C4018: >: несоответствие типов со знаком и без знака
+  Beginner_8.vcxproj -> D:\C++ Projects\CPPStudio. Beginner\Beginner_8\Debug\Beginner_8.exe
