@@ -4,4 +4,4 @@
 ## Структура репозитория
 |Папка|Описание|Ссылка|
 | ------------- |:------------------:| -----:|
-|CPPStudio|Сборник задач для практики, содержит 5 уровней сложности, разделённых по соответствующим папкам|https://github.com/DanielPetrow/C_Plus_Plus_Projects/tree/main/CPPStudio|
+|CPPStudio|Сборник задач для практики, содержит 5 уровней сложности, разделённых по соответствующим папкам|[тык](https://github.com/DanielPetrow/C_Plus_Plus_Projects/tree/main/CPPStudio)|
