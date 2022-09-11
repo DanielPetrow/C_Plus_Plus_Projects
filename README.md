@@ -1,2 +1,6 @@
 # C++ Projects
-A repository for any of my projects created with C++
+Репозиторий для проектов, созданных с помощью языка С++
+
+## Структура репозитория
+|Папка|Описание|Ссылка|
+|CPPStudio|Сборник задач для практики, содержит 5 уровней сложности, разделённых по соответствующим папкам|https://github.com/DanielPetrow/C_Plus_Plus_Projects/tree/main/CPPStudio|
