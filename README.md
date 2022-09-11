@@ -4,5 +4,5 @@
 ## Структура репозитория
 |Папка|Описание|Ссылка|
 |:-------------|:------------------|:-----|
-|Coursera. White Belt|Сборник задач с сайта Coursera. Папка не закончена, требует переработки|[тык](https://www.coursera.org/)|
+|Coursera. White Belt|Задачи с сайта Coursera. Папка не закончена, требует переработки|[тык](https://www.coursera.org/)|
 |CPPStudio|Сборник задач для практики, содержит 5 уровней сложности, разделённых по соответствующим папкам|[тык](https://github.com/DanielPetrow/C_Plus_Plus_Projects/tree/main/CPPStudio)|
