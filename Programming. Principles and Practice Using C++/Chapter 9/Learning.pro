@@ -4,8 +4,7 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        chrono.cpp \
-        main.cpp
+        chrono.cpp
 
 HEADERS += \
     chrono.h \
